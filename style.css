@@ -1,0 +1,202 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+.wrapper{
+	width: 100%;
+}
+.header_area{
+	background: #FEFEFE;
+}
+.header{
+	width: 970px;
+	margin: 0 auto;
+	overflow: hidden;
+	padding: 15px;
+	/*border: 2px solid red;*/
+	border-bottom: 1px solid #ededed;
+}
+.logo{
+	float: left;
+	width: 50%;
+}
+.logo_image{
+	float: left;
+}
+.logo_text{
+	float: left;
+	text-transform: uppercase;
+	margin-left: 5px;
+	color: #737373;
+	font-size: 18px;
+	margin-top: 2px;
+}
+.menu{
+	float: right;
+	width: 50%;
+	margin-top: 8px;
+
+	/*border: 2px solid green;*/
+
+
+}
+.menu ul{
+	list-style: none;
+	text-align: right;
+}
+.menu ul li{
+	display: inline-block;
+	box-sizing: border-box;
+}
+.menu ul li a{
+	text-decoration: none;
+	padding: 8px;
+}
+.menu ul li a:hover{}
+.menu_area{
+
+}
+.main_menu{
+	width: 970px;
+	margin: 0 auto;
+	padding: 20px;
+}
+.main_menu ul{
+	list-style: none;
+}
+.main_menu ul li{
+	display: inline-block;
+	box-sizing: border-box;
+}
+.main_menu ul li a{
+	text-decoration: none;
+	padding: 15px;
+	color: #737373;
+	text-transform: uppercase;
+
+}
+.slider_area{
+	margin-bottom: 20px;
+	/*background: url(slider_background.png);*/
+}
+.slider_area img{
+	width: 100%;
+	height: 420px;
+}
+.slider{
+	width: 970px;
+	margin: 0 auto;
+	position: relative;
+}
+.slider_buttom{
+
+	position: absolute;
+	/*bottom: -10px;*/
+}
+.slider_bottom img{
+	width: 750px;
+	position: absolute;
+	top: -380px;
+	left:65px;
+	
+}
+
+.{}
+.content_area{
+	background: #FEFEFE;
+	overflow: hidden;
+	margin-top: 60px;
+}
+.content{
+	width: 970px;
+	margin: 0 auto;
+	/*position: relative;*/
+}
+.content p{
+	text-align: center;
+	text-transform: uppercase;
+	margin-bottom: 15px;
+	font-size: 12px;
+}
+
+
+
+
+.content button{
+	text-align: center;
+	text-transform: uppercase;
+	padding: 10px;
+	background: #2DCC70;
+	border: 0px;
+	border-radius: 2px;
+	color: white;
+	font-weight: bold;
+}
+.promo_area{
+	background: #332F30;
+}
+.promo{
+	width: 970px;
+	margin: 0 auto;
+	overflow: hidden;
+}
+.left_promo{
+	float: left;
+}
+.left_promo h2{
+	text-transform: uppercase;
+	color: white;
+	padding: 35px 0px;
+}
+.promo_right{
+	float: right;
+}
+.promo_right button{
+	text-align: center;
+	text-transform: uppercase;
+	padding: 10px;
+	background: #2DCC70;
+	border: 0px;
+	margin-top: 35px;
+	border-radius: 2px;
+	color: white;
+	font-weight: bold;
+}
+.footer_area{
+	margin-top: 10px;
+}
+.footer{
+	width: 970px;
+	margin: 0 auto;
+	overflow: hidden;
+}
+.footer_copyright{
+	float: left;
+}
+.footer_copyright p{
+	color: #737373;
+	text-transform: uppercase;
+	margin-top: 8px;
+	font-size: 12px;
+}
+.footer_menu{
+	float: right;
+}
+.footer_menu ul{
+	list-style: none;
+}
+.footer_menu ul li{
+	display: inline-block;
+	box-sizing: border-box;
+	padding: 10px;
+	color: #737373;
+	text-transform: uppercase;
+}
+.footer_menu ul li a{
+	text-decoration: none;
+	
+	 
+}
+.{}
+.{}
